@@ -1,6 +1,8 @@
 <h1 align="center">Amigo secreto</h1>
 
-<a href="https://github.com/user-attachments/assets/3973535d-cb94-4f47-b275-7499d25c06c0">Um presente com o título do projeto abaixo: Amigo Secreto</a>
+<a href="https://github.com/user-attachments/assets/3973535d-cb94-4f47-b275-7499d25c06c0">
+    <img src="https://github.com/user-attachments/assets/3973535d-cb94-4f47-b275-7499d25c06c0" alt="Amigo Secreto" />
+</a>
 
 <p align="center">
     <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
