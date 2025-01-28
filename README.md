@@ -16,3 +16,6 @@ Visualizar o Resultado: O resultado do sorteio aparecerá automaticamente abaixo
 Onde os Usuários Podem Encontrar Ajuda sobre o Projeto
 Caso o usuário precise de ajuda ou tenha dúvidas, ele pode:
 Consultar o arquivo README que acompanha o projeto, onde são fornecidas instruções detalhadas sobre como utilizar o sistema, incluindo como adicionar amigos, sortear e visualizar os resultados.
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
